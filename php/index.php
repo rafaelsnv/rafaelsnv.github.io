@@ -1,1 +1,1 @@
-<?php require_once ("html/index.html") ?>
+<?php require_once ("/html") ?>
